@@ -2,11 +2,11 @@ Personal repository for making molecular dynamics datasets for butane.
 
 Needed libraries (will add version specifity later):
 
-For running 'main.ipynb' to show the collected numpy data on butane:
+For running 'script/main.ipynb' to show the collected numpy data on butane:
 - NumPy
 - Pyplot
 
-For running 'butane_openmm.ipynb' to mess with the butane data generation in openmm, the additional libraries are needed:
+For running 'script/butane_openmm.ipynb' to mess with the butane data generation in openmm, the additional libraries are needed:
 - MDTraj
 - OpenMM
 - tqdm
