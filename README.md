@@ -2,6 +2,10 @@ Personal repository for making molecular dynamics datasets for butane.
 
 Needed libraries (will add version specifity later):
 
+**Recent Additions**: 
+- Openmm scripts for getting data at high temperature, and for metadynamics (see `scripts/')
+- .npz files for high temp and metadynamics datasets
+
 For running 'script/main.ipynb' to show the collected numpy data on butane:
 - NumPy
 - Pyplot
