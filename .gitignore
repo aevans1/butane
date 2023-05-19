@@ -2,3 +2,4 @@
 script/.ipynb_checkpoints
 output/traj/traj_metad.dcd
 output/traj/traj_aligned_metad.dcd
+output/traj/traj_long.dcd
